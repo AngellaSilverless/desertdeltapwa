@@ -1,0 +1,41 @@
+{
+	"name": "Desert & Delta",
+	"short_name": "Desert&Delta",
+	"icons": [
+		{
+			"src": "/FINAL/presentation/images/icon-128x128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "/FINAL/presentation/images/icon-144x144.png",
+			"sizes": "144x144",
+			"type": "image/png"
+		},
+		{
+			"src": "/FINAL/presentation/images/icon-152x152.png",
+			"sizes": "152x152",
+			"type": "image/png"
+		},
+		{
+			"src": "/FINAL/presentation/images/icon-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/FINAL/presentation/images/icon-256x256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "/FINAL/images/icon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"start_url": "/FINAL/presentation/index.html",
+	"scope": "/FINAL/presentation/",
+	"display": "standalone",
+	"background_color": "#727453",
+	"theme_color": "#727453"
+}
